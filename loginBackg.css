@@ -1,0 +1,14 @@
+#two{
+    background:radial-gradient(rgb(215, 196, 196),rgb(150, 28, 28)) ;
+}
+#one{
+    padding: 15px 15px;
+}
+#and{
+    background: radial-gradient(rgb(85, 72, 80),rgb(4, 50, 69));
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin: auto;
+    text-align: center;
+}
